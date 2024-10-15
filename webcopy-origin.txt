@@ -1,0 +1,96 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://free.rockstarity.fun/
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\index.htm
+Content Type: text/html
+
+Uri: https://free.rockstarity.fun/css/faq.css
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\css\faq.css
+Content Type: text/css
+
+Uri: https://free.rockstarity.fun/css/main.css
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\css\main.css
+Content Type: text/css
+
+Uri: https://free.rockstarity.fun/faq
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\faq.html
+Content Type: text/html
+
+Uri: https://free.rockstarity.fun/img/clash of clans.png
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\img\clash of clans.png
+Content Type: image/png
+
+Uri: https://free.rockstarity.fun/img/clash royalty.png
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\img\clash royalty.png
+Content Type: image/png
+
+Uri: https://free.rockstarity.fun/img/testbg.png
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\img\testbg.png
+Content Type: image/png
+
+Uri: https://free.rockstarity.fun/index
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\index.html
+Content Type: text/html
+
+Uri: https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\boxicons@2.1.4\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.eot
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\boxicons@2.1.4\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.svg?
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\boxicons@2.1.4\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.ttf
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\boxicons@2.1.4\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.woff
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\boxicons@2.1.4\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.woff2
+File Name: C:\Downloaded Web Sites\free.rockstarity.fun\boxicons@2.1.4\fonts\boxicons.woff2
+Content Type: font/woff2
+
